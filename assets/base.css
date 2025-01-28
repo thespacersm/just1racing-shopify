@@ -3524,6 +3524,7 @@ details-disclosure > details {
   letter-spacing: 0;
   font-weight: 400;
   font-size: 14px;
+  width: fit-content;
 }
 
 .discount-dates p:first-child {

@@ -263,7 +263,7 @@
         
         {% if discount_dates.size > 0 %}
           {% for date in discount_dates %}
-            <p style="margin:0;">{{ date | strip }}</p>  <!-- Rimuove eventuali spazi extra -->
+            <p>{{ date | strip }}</p>  <!-- Rimuove eventuali spazi extra -->
           {% endfor %}
         {% endif %}
       </div>
