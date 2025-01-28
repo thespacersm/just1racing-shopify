@@ -3519,7 +3519,7 @@ details-disclosure > details {
 }
 
 /*THE SPACE*/
-.discount-dates p {
+.text-discount-space .discount-dates p {
   margin: 4px 0;
   letter-spacing: 0;
   font-weight: 400;
@@ -3527,7 +3527,7 @@ details-disclosure > details {
   width: fit-content;
 }
 
-.discount-dates p:first-child {
+.text-discount-space .discount-dates p:first-child {
   background-color: #ffdc17;
   padding: 0 15px;
   border-radius: 50px;
