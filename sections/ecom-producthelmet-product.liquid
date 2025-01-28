@@ -259,7 +259,7 @@
  <div class="text-discount-space">
     <div>{{ product.metafields.custom.discount_name }}</div>
     <div class="discount-dates">
-        {% assign discount_dates = product.metafields.custom.discount_date | split: ',' %}
+        {% assign discount_dates = product.metafields.custom.discount_date | split: ',' | inspect %}
         
         {% if discount_dates.size > 0 %}
           {% for date in discount_dates %}
