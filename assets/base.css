@@ -3517,3 +3517,20 @@ details-disclosure > details {
     --border-offset: 0px; /* Prevent the border from growing on buttons when this effect is on. */
   }
 }
+
+/*THE SPACE*/
+.discount-dates p {
+  margin: 4px 0;
+  letter-spacing: 0;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.discount-dates p:first-child {
+  background-color: #ffdc17;
+  padding: 0 15px;
+  border-radius: 50px;
+  font-size: 15px;
+  color: #000000;
+  letter-spacing: 0;
+}
