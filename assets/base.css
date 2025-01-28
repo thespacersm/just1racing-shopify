@@ -3519,19 +3519,26 @@ details-disclosure > details {
 }
 
 /*THE SPACE*/
+.text-discount-space .discount-dates {
+  margin: 10px 0;
+  border: 2px solid #fbdc17;
+  border-radius: 10px;
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  min-width: 100%;
+}
+
 .text-discount-space .discount-dates p {
-  margin: 4px 0;
-  letter-spacing: 0;
-  font-weight: 400;
-  font-size: 14px;
-  width: fit-content;
+  width: 100%;
+  text-align: center;
+  padding: 3px 15px;
 }
 
 .text-discount-space .discount-dates p:first-child {
   background-color: #ffdc17;
-  padding: 0 15px;
-  border-radius: 50px;
+  border-radius: 6px;
   font-size: 15px;
-  color: #000000;
+  color: #000;
   letter-spacing: 0;
 }
