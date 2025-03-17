@@ -1,1 +1,220 @@
-{"sections":{"image_banner":{"type":"image-banner","blocks":{"heading":{"type":"heading","settings":{"heading":"","heading_size":"h0"}}},"block_order":["heading"],"settings":{"image":"shopify:\/\/shop_images\/1900_560_home_banner_J18.jpg","image_overlay_opacity":20,"image_height":"adapt","desktop_content_position":"bottom-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"scheme-3","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"collection_list_LYqje3":{"type":"collection-list","blocks":{"featured_collection_yUHM9i":{"type":"featured_collection","settings":{"collection":"helmet"}},"featured_collection_EELYHW":{"type":"featured_collection","settings":{"collection":"clothing"}},"featured_collection_fUNrj6":{"type":"featured_collection","settings":{"collection":"optics"}},"featured_collection_yzLPhb":{"type":"featured_collection","settings":{"collection":"boots"}}},"block_order":["featured_collection_yUHM9i","featured_collection_EELYHW","featured_collection_fUNrj6","featured_collection_yzLPhb"],"settings":{"title":"<strong>Collections<\/strong>","heading_size":"h1","image_ratio":"adapt","columns_desktop":4,"color_scheme":"","show_view_all":false,"columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"featured_collection":{"type":"featured-collection","settings":{"title":"<strong>Featured products<\/strong>","heading_size":"h1","description":"","show_description":false,"description_style":"body","collection":"home-showcase","products_to_show":8,"columns_desktop":4,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"scheme-1","image_ratio":"square","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":44,"padding_bottom":36}},"multirow_ngacDz":{"type":"multirow","blocks":{"row_T9xbpF":{"type":"row","settings":{"image":"shopify:\/\/shop_images\/J22_3.png","caption":"Super Sale 30% OFF","heading":"J18","text":"<p><strong>IN THE BOX :<\/strong><\/p><p>• HELMET BAG<br\/>• SPARE PEAK<br\/>• PEAK EXTENSION<br\/>• STICKERS<br\/>• ACTION CAMERA SUPPORT<\/p>","button_label":"Shop Now","button_link":"shopify:\/\/products\/j18-ece-22-05"}},"row_cG8txa":{"type":"row","settings":{"image":"shopify:\/\/shop_images\/J22_4.png","caption":"Super Sale 30% OFF","heading":"J22","text":"<p><strong>IN THE BOX :<\/strong><\/p><p>• HELMET BAG<br\/>• SPARE PEAK<br\/>• PEAK EXTENSION<br\/>• STICKERS<br\/>• ACTION CAMERA SUPPORT<\/p>","button_label":"Shop Now","button_link":"shopify:\/\/products\/j22-1"}}},"block_order":["row_T9xbpF","row_cG8txa"],"settings":{"image_height":"adapt","desktop_image_width":"medium","heading_size":"h1","text_style":"body","button_style":"secondary","desktop_content_position":"middle","desktop_content_alignment":"left","image_layout":"alternate-left","section_color_scheme":"","row_color_scheme":"","mobile_content_alignment":"center","padding_top":36,"padding_bottom":36}},"featured_blog_FEPFzh":{"type":"featured-blog","settings":{"heading":"<strong>Blog posts<\/strong>","heading_size":"h1","blog":"blog","post_limit":3,"columns_desktop":3,"color_scheme":"","show_image":true,"show_date":true,"show_author":false,"show_view_all":true,"padding_top":36,"padding_bottom":36}},"newsletter_mhGMEi":{"type":"newsletter","blocks":{"heading_4WiGHy":{"type":"heading","settings":{"heading":"Subscribe to our emails","heading_size":"h1"}},"paragraph_DE6Hi7":{"type":"paragraph","settings":{"text":"<p>Be the first to know about new collections and exclusive offers.<\/p>"}},"email_form_VeWnVH":{"type":"email_form","settings":{}}},"block_order":["heading_4WiGHy","paragraph_DE6Hi7","email_form_VeWnVH"],"settings":{"color_scheme":"","full_width":true,"padding_top":40,"padding_bottom":52}}},"order":["image_banner","collection_list_LYqje3","featured_collection","multirow_ngacDz","featured_blog_FEPFzh","newsletter_mhGMEi"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/1900_560_home_banner_J18.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "collection_list_LYqje3": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_yUHM9i": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "helmet"
+          }
+        },
+        "featured_collection_EELYHW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "clothing"
+          }
+        },
+        "featured_collection_fUNrj6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "optics"
+          }
+        },
+        "featured_collection_yzLPhb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "boots-moto"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_yUHM9i",
+        "featured_collection_EELYHW",
+        "featured_collection_fUNrj6",
+        "featured_collection_yzLPhb"
+      ],
+      "settings": {
+        "title": "<strong>Collections</strong>",
+        "heading_size": "h1",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>Featured products</strong>",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "home-showcase",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_ngacDz": {
+      "type": "multirow",
+      "blocks": {
+        "row_T9xbpF": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/J22_3.png",
+            "caption": "Super Sale 30% OFF",
+            "heading": "J18",
+            "text": "<p><strong>IN THE BOX :</strong></p><p>• HELMET BAG<br/>• SPARE PEAK<br/>• PEAK EXTENSION<br/>• STICKERS<br/>• ACTION CAMERA SUPPORT</p>",
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/j18-ece-22-05"
+          }
+        },
+        "row_cG8txa": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/J22_4.png",
+            "caption": "Super Sale 30% OFF",
+            "heading": "J22",
+            "text": "<p><strong>IN THE BOX :</strong></p><p>• HELMET BAG<br/>• SPARE PEAK<br/>• PEAK EXTENSION<br/>• STICKERS<br/>• ACTION CAMERA SUPPORT</p>",
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/j22-1"
+          }
+        }
+      },
+      "block_order": [
+        "row_T9xbpF",
+        "row_cG8txa"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_blog_FEPFzh": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "<strong>Blog posts</strong>",
+        "heading_size": "h1",
+        "blog": "blog",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "newsletter_mhGMEi": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_4WiGHy": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_DE6Hi7": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
+          }
+        },
+        "email_form_VeWnVH": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_4WiGHy",
+        "paragraph_DE6Hi7",
+        "email_form_VeWnVH"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "collection_list_LYqje3",
+    "featured_collection",
+    "multirow_ngacDz",
+    "featured_blog_FEPFzh",
+    "newsletter_mhGMEi"
+  ]
+}
